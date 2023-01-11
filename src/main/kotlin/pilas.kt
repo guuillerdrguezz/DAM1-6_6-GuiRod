@@ -1,4 +1,4 @@
-
+//declaraciones
 class Pila{
 
 
